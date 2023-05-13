@@ -1,0 +1,42 @@
+body {
+    box-sizing: content-box;
+    width: 900px;
+    background: #d2d2c1 url(Imagens/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.hbcc{
+    background-color: #c5c5b2;
+    padding: 15px;
+    width: 870px; 
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none; /* Serve para tirar o anderline do texto "com link"*/
+    font-weight:bold;
+    padding: 5px;
+}
+
+.lorem {
+    background: #e8e8d9;
+    padding: 10px; /*Serve para dar espaçamento no background*/
+}
+
+.dir {
+    text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #c3c3ae; 
+}
+
+img {
+    width: 880px;
+}
